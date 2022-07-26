@@ -15,7 +15,7 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
 
-BGT_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/62d8a588996d71a3cce98.jpg"
+BGT_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/020b604ddcac2a39bd9de.jpg"
   
 
 BGT = "✯ 🇧𝗚𝗧 🇸𝗽𝗮𝗺 🇭𝗲𝗿𝗲 ✯\n\n"
@@ -34,11 +34,11 @@ async def alive(event):
                                   caption=deadly,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/BikashGedgetsTech"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Bgt_Chat")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/NJ_AJ_WORLD"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/MA_CHODDENGE")
         ],
         [
-        Button.url("• ᴏᴡɴᴇʀ •", "https://t.me/BikashHalder")
+        Button.url("• ᴏᴡɴᴇʀ •", "https://t.me/Fighter_rkh")
         ]
         ]
         )
