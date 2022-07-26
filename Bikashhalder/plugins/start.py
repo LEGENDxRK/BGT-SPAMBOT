@@ -5,7 +5,7 @@ from telethon import events, Button
 from telethon.tl.custom import button
 from Bikashhalder import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, ALIVE_PIC, OWNER_ID
 
-BGT_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/55e7f313222edd0a94b5c.jpg"
+BGT_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/020b604ddcac2a39bd9de.jpg"
 
 Bgt_Button = [
         [
