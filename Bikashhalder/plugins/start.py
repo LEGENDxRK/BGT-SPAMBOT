@@ -9,23 +9,23 @@ BGT_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/55e7f313222edd0a
 
 Bgt_Button = [
         [
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/BikashGedgetsTech")
+        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/NJ_AJ_WORLD")
         ],
         [
-        Button.url("• ᴍᴀɪɴᴛᴀɪɴ ʙʏ •", "https://t.me/Bikashhalder")
+        Button.url("• ᴍᴀɪɴᴛᴀɪɴ ʙʏ •", "https://t.me/Fighter_rkh")
         ],
         [
-        Button.url("• ᴍᴀɪɴᴛᴀɪɴ ʙʏ •", "https://t.me/Adityahalder")
+        Button.url("• ᴍᴀɪɴᴛᴀɪɴ ʙʏ •", "https://t.me/Fighter_rkh")
         ]
         ]
                
 BgtX_Button = [
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/BikashGedgetsTech"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Bgt_Chat")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/NJ_AJ_WORLD"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/MA_CHODDENGE")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/BgtUserbot/BGT-SPAMBOT")
+        Button.url("• ʀᴇᴘᴏ •", "https://t.me/Fighter_rkh")
         ]
         ]
         
