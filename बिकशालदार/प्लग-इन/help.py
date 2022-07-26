@@ -5,7 +5,7 @@ from time import time
 from datetime import datetime
 from Bikashhalder import CMD_HNDLR as hl
     
-HELP_PIC = "https://te.legra.ph/file/860117bc941734b04265c.jpg"
+HELP_PIC = "https://te.legra.ph/file/020b604ddcac2a39bd9de.jpg"
 
 BGT_Help = "🔥 🇧𝗚𝗧 🇸𝗣𝗔𝗠 🇧𝗢𝗧 🔥\n\n"
  
@@ -25,9 +25,9 @@ BGT_Help += f" `$raid` - ᴛᴏ ʀᴀɪᴅ\n `$replyraid` - ᴀᴄᴛɪᴠᴇ ʀ
 
 BGT_Help += f" `$bgtopspam` -  ᴏɴʟʏ sʜᴏᴡ ᴛʜɪs ʜᴇʟᴘ 〠᯼\n\n"
 
-BGT_Help += f"♕︎𝐂𝐫𝐞𝐚𝐭𝐨𝐫♕︎ @BikashHalder\n"
+BGT_Help += f"♕︎𝐂𝐫𝐞𝐚𝐭𝐨𝐫♕︎ @Fighter_rkh\n"
 
-BGT_Help += f"♕︎𝐂𝐫𝐞𝐚𝐭𝐨𝐫♕︎ @AdityaHalder\n"
+BGT_Help += f"♕︎𝐂𝐫𝐞𝐚𝐭𝐨𝐫♕︎ @Fighter_rkh\n"
 
 
 @BOT0.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
@@ -38,8 +38,8 @@ async def help(event):
                                   caption=BGT_Help,
                                   buttons=[
         [
-        Button.url("𝐁𝐆𝐓", "https://t.me/BikashGedgetsTech"),
-        Button.url("𝐊𝐖", "https://t.me/Kaalware")
+        Button.url("𝐑𝐊", "https://t.me/Fighter_rkh"),
+        Button.url("𝐋egen𝐃𝐱𝐅ighte𝐑", "https://t.me/LEGENDxFighter")
         ] 
         ]
         )                                                         
